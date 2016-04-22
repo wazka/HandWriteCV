@@ -1,8 +1,7 @@
 #include <stdio.h>
+#include "../HandWriteCVLib/Classifier.h"
 
 int main()
 {
-	printf("Hello world!\n");
-
 	return 0;
 }
