@@ -3,5 +3,6 @@
 
 int main()
 {
+	Classifier c;
 	return 0;
 }
